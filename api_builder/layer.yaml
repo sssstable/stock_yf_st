@@ -1,0 +1,27 @@
+id: a9785b79-5708-4694-8b4f-b89244f78527
+name: api_builder
+type: 2
+canvas_id: 1fca9f31-2e21-4b71-83a7-96dfac6e50c9
+blocks:
+- auto_size: false
+  canvas_id: 1fca9f31-2e21-4b71-83a7-96dfac6e50c9
+  compute_environment_type: 1
+  cpu: 2048
+  description: ''
+  height: 500
+  id: 30f07c12-190e-43a7-ac40-7660397c0aa1
+  layer_id: a9785b79-5708-4694-8b4f-b89244f78527
+  memory: 16384
+  name: API Controller
+  parent_id: null
+  properties:
+    api_key: zv-077b6b21-d85d-4e4c-8f0b-0f4bd23fa708
+    dns_name: null
+    file_names: []
+  status: 1
+  type: 7
+  variables: null
+  width: 800
+  x: 0
+  y: 0
+edges: []
